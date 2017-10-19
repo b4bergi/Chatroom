@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -9774,15 +9774,27 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "c:\\users\\bergh\\onedrive\\dokumente\\visual studio 2017\\Projects\\Chatroom\\Chatroom\\Chatroom.csproj",
+      "projectUniqueName": "C:\\Users\\Bergh\\Google Drive\\Schule\\5. Klasse\\Syp\\Chatroom\\Chatroom\\Chatroom.csproj",
       "projectName": "Chatroom",
-      "projectPath": "c:\\users\\bergh\\onedrive\\dokumente\\visual studio 2017\\Projects\\Chatroom\\Chatroom\\Chatroom.csproj",
-      "outputPath": "c:\\users\\bergh\\onedrive\\dokumente\\visual studio 2017\\Projects\\Chatroom\\Chatroom\\obj\\",
+      "projectPath": "C:\\Users\\Bergh\\Google Drive\\Schule\\5. Klasse\\Syp\\Chatroom\\Chatroom\\Chatroom.csproj",
+      "packagesPath": "C:\\Users\\Bergh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bergh\\Google Drive\\Schule\\5. Klasse\\Syp\\Chatroom\\Chatroom\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bergh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
