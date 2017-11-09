@@ -1,0 +1,11 @@
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\netcoreapp1.1\Chatrooms.deps.json
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\netcoreapp1.1\Chatrooms.runtimeconfig.json
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\netcoreapp1.1\Chatrooms.runtimeconfig.dev.json
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\netcoreapp1.1\Chatrooms.dll
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\netcoreapp1.1\Chatrooms.pdb
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatrooms.csprojResolveAssemblyReference.cache
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatrooms.csproj.CoreCompileInputs.cache
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatrooms.AssemblyInfoInputs.cache
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatrooms.AssemblyInfo.cs
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatrooms.dll
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatrooms.pdb

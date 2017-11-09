@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Chatroom")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Chatrooms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Chatroom")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Chatroom")]
+[assembly: System.Reflection.AssemblyProductAttribute("Chatrooms")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Chatrooms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

@@ -21,7 +21,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "Chatroom/1.0.0": {
+      "Chatrooms/1.0.0": {
         "dependencies": {
           "Microsoft.ApplicationInsights.AspNetCore": "2.0.0",
           "Microsoft.AspNetCore": "1.1.2",
@@ -32,10 +32,10 @@
           "Microsoft.VisualStudio.Web.BrowserLink": "1.1.2"
         },
         "runtime": {
-          "Chatroom.dll": {}
+          "Chatrooms.dll": {}
         },
         "compile": {
-          "Chatroom.dll": {}
+          "Chatrooms.dll": {}
         }
       },
       "Microsoft.ApplicationInsights/2.2.0": {
@@ -3003,7 +3003,7 @@
     }
   },
   "libraries": {
-    "Chatroom/1.0.0": {
+    "Chatrooms/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
