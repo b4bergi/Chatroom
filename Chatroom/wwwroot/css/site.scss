@@ -1,0 +1,88 @@
+﻿$vheight:100vh;
+$boxheight:calc(100vh - 30px);
+$barheight:30px;
+
+
+body {
+  
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .carousel-caption {
+        display: none;
+    }
+}
+
+#left_box {
+    float: left;
+    width: 6.250em;
+    height: $boxheight;
+}
+
+#right_box {
+    float: right;
+    width: 6.250em;
+    height: $boxheight;
+}
+
+#div_login {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    height: $barheight;
+    text-align:right;
+}
+
+#div_chat {
+    width: calc(100% - 12.500em);
+    height: calc(100vh - 30px);
+    margin-right: 6.250em;
+    margin-left: 6.250em;
+}
+
+#div_write_chat {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100%;
+}
+
+#div_chatroom {
+    height: calc(100vh - 60px);
+    width: 100%;
+    -webkit-box-shadow: inset 0px 0px 0px 0px #000000;
+    -moz-box-shadow: inset 0px 0px 0px 0px #000000;
+    box-shadow: inset 0px 0px 0px 0px #000000;
+    padding: 0px;
+}
+
+div {
+    -webkit-box-shadow: inset 0px 0px 0px 1px #000000;
+    -moz-box-shadow: inset 0px 0px 0px 1px #000000;
+    box-shadow: inset 0px 0px 0px 1px #000000;
+    padding: 1px;
+    margin: 0px;
+}
+
+#chat_input {
+    min-width: calc(100vw - 19em)
+}
