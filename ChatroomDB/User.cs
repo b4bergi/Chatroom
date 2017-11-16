@@ -14,7 +14,7 @@ namespace ChatroomDB
         public string UserEmail { get; set; }
         public bool isAdmin { get; set; }
         public string UserTag { get; set; }
-        public virtual Chatroom UserChatroom { get; set; }
+        public virtual List<Chatroom> UserChatrooms { get; set; }
 
     }
 }

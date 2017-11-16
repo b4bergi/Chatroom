@@ -1,0 +1,2 @@
+C:\Users\Philip Frauscher\Desktop\SYP_5\Chatroom\Chatroom\ChatroomDB\obj\Debug\ChatroomDB.csprojResolveAssemblyReference.cache
+C:\Users\Philip Frauscher\Desktop\SYP_5\Chatroom\Chatroom\ChatroomDB\obj\Debug\ChatroomDB.csproj.CoreCompileInputs.cache

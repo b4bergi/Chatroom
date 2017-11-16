@@ -8,5 +8,8 @@ namespace ChatroomDB
 {
     public class Settings
     {
+        public bool darkMode { get; set; }
+        public bool soundOn { get; set; }
+        public virtual User UserSettings { get; set; }
     }
 }
