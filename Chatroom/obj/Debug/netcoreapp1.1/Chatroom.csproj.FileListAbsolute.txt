@@ -8,3 +8,4 @@ C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\net
 C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatroom.AssemblyInfo.cs
 C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatroom.dll
 C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatroom.pdb
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\netcoreapp1.1\Chatroom.AssemblyInfoInputs.cache
