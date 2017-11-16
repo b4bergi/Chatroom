@@ -1,6 +1,5 @@
 ﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+
 }
 
 /* Wrapping element */
@@ -39,7 +38,7 @@ textarea {
 #div_themen_ranking {
     float: left;
     width: 6.250em;
-    height: 70vh;
+    height: calc(100% - 20px);
 }
 #div_online_user {
     float: right;
@@ -50,6 +49,7 @@ textarea {
     display: inline-block;
     vertical-align: top;
     width: 100vw;
+    height:20px;
 }
 #div_chat {
     width: calc(100% - 12.500em);
