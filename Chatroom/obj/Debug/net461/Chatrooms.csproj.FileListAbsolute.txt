@@ -306,3 +306,5 @@ C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\net
 C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\net461\Chatrooms.csprojResolveAssemblyReference.cache
 C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\net461\Chatrooms.exe
 C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\obj\Debug\net461\Chatrooms.pdb
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\net461\EntityFramework.SqlServer.dll
+C:\Users\Bergh\Google Drive\Schule\5. Klasse\Syp\Chatroom\Chatroom\bin\Debug\net461\EntityFramework.dll
