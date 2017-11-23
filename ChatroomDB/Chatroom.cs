@@ -8,6 +8,7 @@ namespace ChatroomDB
 {
     public class Chatroom
     {
+        public int ChatroomId { get; set; }
         public string ChatroomName { get; set; }
         public int UserCount { get; set; }
         public virtual List<User> MyProperty { get; set; }

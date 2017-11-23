@@ -2048,6 +2048,15 @@
         "runtime": {
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "ChatroomDB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ChatroomDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatroomDB.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win7-x86": {
@@ -3983,6 +3992,15 @@
         },
         "runtime": {
           "lib/net46/System.Xml.XPath.XDocument.dll": {}
+        }
+      },
+      "ChatroomDB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ChatroomDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatroomDB.dll": {}
         }
       }
     }
@@ -7788,10 +7806,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "ChatroomDB/1.0.0": {
+      "type": "project",
+      "path": "../ChatroomDB/ChatroomDB.csproj",
+      "msbuildProject": "../ChatroomDB/ChatroomDB.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
+      "ChatroomDB >= 1.0.0",
       "EntityFramework >= 6.2.0",
       "Microsoft.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore.Mvc >= 2.0.0",
@@ -7801,7 +7825,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bergh\\.nuget\\packages\\": {},
+    "C:\\Users\\Philip Frauscher\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -7810,17 +7834,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bergh\\Google Drive\\Schule\\5. Klasse\\Syp\\Chatroom\\Chatroom\\Chatrooms.csproj",
+      "projectUniqueName": "C:\\Users\\Philip Frauscher\\Desktop\\SYP_5\\Chatroom\\Chatroom\\Chatroom\\Chatrooms.csproj",
       "projectName": "Chatrooms",
-      "projectPath": "C:\\Users\\Bergh\\Google Drive\\Schule\\5. Klasse\\Syp\\Chatroom\\Chatroom\\Chatrooms.csproj",
-      "packagesPath": "C:\\Users\\Bergh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bergh\\Google Drive\\Schule\\5. Klasse\\Syp\\Chatroom\\Chatroom\\obj\\",
+      "projectPath": "C:\\Users\\Philip Frauscher\\Desktop\\SYP_5\\Chatroom\\Chatroom\\Chatroom\\Chatrooms.csproj",
+      "packagesPath": "C:\\Users\\Philip Frauscher\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Philip Frauscher\\Desktop\\SYP_5\\Chatroom\\Chatroom\\Chatroom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bergh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Philip Frauscher\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7832,7 +7856,11 @@
       },
       "frameworks": {
         "net461": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Philip Frauscher\\Desktop\\SYP_5\\Chatroom\\Chatroom\\ChatroomDB\\ChatroomDB.csproj": {
+              "projectPath": "C:\\Users\\Philip Frauscher\\Desktop\\SYP_5\\Chatroom\\Chatroom\\ChatroomDB\\ChatroomDB.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
